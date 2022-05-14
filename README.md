@@ -16,6 +16,9 @@ https://github.com/hirotoKirimaru#:~:text=%E6%B0%B4%E4%B8%8A%20%E7%9A%93%E7%99%B
 
 作成中
 
+# すでにある先人のChrome拡張
+https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg/related
+
 # 参考情報
 
 https://r7kamura.com/articles/2022-05-07-chrome-extension-dev-2022
